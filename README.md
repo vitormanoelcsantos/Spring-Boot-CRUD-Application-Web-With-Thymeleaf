@@ -7,12 +7,3 @@ The simple application can be accessed through the link: [Application](https://u
 
 The CPF was used as the primary key, so it cannot be changed. To change the CPF, you must delete the employee and add again.
 
-Application images: 
-- Home page: 
- ![7dda96c8a497d95a0f1a7e3515225d2d.png](:/e53e9f8354e2498290fc826466dd38fc)
-- Add Employee: 
- ![462660854b839f4a967a40cd94770fd2.png](:/62b311af87a8497798635fdff2fa28a2)
-- List Employee:
- ![a4256cb7cd47d676b7dd40b4fae48778.png](:/e24b8337e5f64c1c88d01e16fcb81948)
-- Update Employee:
- ![2fcaf9e316a11eac1492b8cfc468a317.png](:/b745ae1191fc48ca9e5abde1ece4bee7)
